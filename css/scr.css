@@ -6,6 +6,16 @@ header {
     background-color: #77BDE0;
 }
 
+.main-img {
+    margin-bottom:2em;
+    margin-left: auto;
+    margin-right: auto;
+    /* shadow */
+    -webkit-box-shadow: 0px 15px 24px -4px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 15px 24px -4px rgba(0,0,0,1);
+    box-shadow: 0px 15px 24px -4px rgba(0,0,0,1);
+}
+
 /* Bootstrap overides */
 
 .page-header {
