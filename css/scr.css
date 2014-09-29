@@ -1,0 +1,13 @@
+body {
+    background-image: url("images/textured_paper.png");
+}
+
+header {
+    background-color: #77BDE0;
+}
+
+/* Bootstrap overides */
+
+.page-header {
+    padding-top: 9px;
+}
