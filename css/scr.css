@@ -76,3 +76,7 @@ ol {
   z-index: -1;
   content: "";
 }
+
+.table thead {
+    background-color: rgba(247, 247, 249, 0.3);
+}
