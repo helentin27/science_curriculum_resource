@@ -17,6 +17,19 @@ nav a {
     text-shadow: 0px 0px 15px rgba(0, 0, 0, 1);
 }
 
+footer,
+footer pre {
+    color: #FFF !important;
+    background-color: #706A76 !important;
+    padding: 5px;
+    border: none;
+    word-wrap: normal;
+}
+
+footer h2 {
+    margin: 0;
+}
+
 .main-img {
     margin-bottom:2em;
     margin-left: auto;
